@@ -24,8 +24,8 @@ namespace Specials
             Console.WriteLine($"Não é um numero = {double.NaN}");
 
             //Overflows
-            Console.WriteLine($"Maximo Int + 1 = {int.MaxValue + 1}");
-            //Console.WriteLine($"Overflow:para +infinito = {double.MaxValue * 2}");
+            //Console.WriteLine($"Maximo Int + 1 = {int.MaxValue + 1}");
+            Console.WriteLine($"Overflow:para +infinito = {double.MaxValue * 2}");
             //Console.WriteLine($"Overflow:sem valor alterado{double.MinValue + 1}");
             //float f1, f2;
             //f1 = f2 = 10000.0f;
