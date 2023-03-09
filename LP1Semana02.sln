@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GranpaPatternSwitch", "Gran
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChatGPTMother", "ChatGPTMother\ChatGPTMother.csproj", "{50D59103-4898-4DF0-8792-A3AE01B16643}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Triangle", "Triangle\Triangle.csproj", "{380DC859-B39B-4B41-ABE3-FE3C3BADFA7D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{50D59103-4898-4DF0-8792-A3AE01B16643}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50D59103-4898-4DF0-8792-A3AE01B16643}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50D59103-4898-4DF0-8792-A3AE01B16643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{380DC859-B39B-4B41-ABE3-FE3C3BADFA7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{380DC859-B39B-4B41-ABE3-FE3C3BADFA7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{380DC859-B39B-4B41-ABE3-FE3C3BADFA7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{380DC859-B39B-4B41-ABE3-FE3C3BADFA7D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
