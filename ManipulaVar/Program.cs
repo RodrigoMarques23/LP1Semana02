@@ -8,7 +8,9 @@ namespace ManipulaVar
         {
             int x = int.Parse(args[0]);
             x++;
-            Console.WriteLine(x);
+            Console.WriteLine($"Sufixo = {x}");
+            --x;
+            Console.WriteLine($"Prefixo = {x}");
         }
     }
 }
