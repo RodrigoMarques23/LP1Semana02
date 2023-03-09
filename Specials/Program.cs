@@ -6,6 +6,7 @@ namespace Specials
     {
         static void Main(string[] args)
         {
+            //Max and Min
             Console.WriteLine($"Maximo Int = {int.MaxValue}");
             Console.WriteLine($"Minimo Int = {int.MinValue}");
             Console.WriteLine($"Maximo Double = {double.MaxValue}");
@@ -16,6 +17,11 @@ namespace Specials
             Console.WriteLine($"Minimo Long = {long.MinValue}");
             Console.WriteLine($"Maximo Float = {float.MaxValue}");
             Console.WriteLine($"Minimo Float = {float.MinValue}");
+
+            //Specials
+            Console.WriteLine($"Infinito Positivo = {double.PositiveInfinity}");
+            Console.WriteLine($"Infinito Negativo = {double.NegativeInfinity}");
+            Console.WriteLine($"Não é um numero = {double.NaN}");
 
         }
     }
