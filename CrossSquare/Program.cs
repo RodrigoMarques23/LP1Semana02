@@ -19,7 +19,7 @@ namespace CrossSquare
                     }
                     else
                     {
-                        if (userInput < 7) Console.Write("#");// if input<7 only 
+                        if (userInput < 5) Console.Write("#");// if input<7 only 
                         //draw #
                         else
                             Console.Write(j - i == 0 || j + i == userInput - 1 ?
